@@ -1,4 +1,4 @@
-# nba_hackathon
+# NBA Hackathon
 Application Problems for the 2018 NBA Hackathon
 
 ## 2018 NBA Hackathon Application - Basketball Prompt
