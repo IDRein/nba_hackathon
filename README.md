@@ -1,5 +1,5 @@
 # NBA Hackathon
-Application Problems for the 2018 NBA Hackathon \n
+Application Problems for the 2018 NBA Hackathon\
 Application found at https://hackathon.nba.com/
 
 ## Basketball Prompt
